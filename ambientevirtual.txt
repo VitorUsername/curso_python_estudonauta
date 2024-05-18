@@ -1,0 +1,10 @@
+# Rode tudo no terminal, para usar o terminal do vscode clique no triangulo com uma exclamação na barra inferior
+1-Criando ambiente virtual
+python -m venv "nome do ambiente virtual"
+
+2-Ativando o ambiente virtual
+\"nome do ambiente virtual"\Scripts\activate
+
+Exemplo:
+python -m venv .venv
+.\.venv\Scripts\activate
